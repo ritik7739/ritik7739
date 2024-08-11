@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ritik7739" alt="ritik7739" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/rsmotivationrit" target="blank"><img src="https://img.shields.io/twitter/follow/rsmotivationrit?logo=twitter&style=for-the-badge" alt="rsmotivationrit" /></a> </p>
+<p align="left"> <a href="https://twitter.com/ritikcodespace" target="blank"><img src="https://img.shields.io/twitter/follow/rsmotivationrit?logo=twitter&style=for-the-badge" alt="ritikcodespace" /></a> </p>
 
 - 🌱 I’m currently learning **React native,nodejs**
 
@@ -21,7 +21,7 @@
 <a href="https://github.com/ritik7739" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://twitter.com/rsmotivationrit" target="_blank">
+<a href="https://twitter.com/ritikcodespace" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
 <a href="https://linkedin.com/in/ritikkumarsingh7739" target="_blank">
