@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **ritik.kumar7739@gmail.com**
 
-- 📄 Know about my experiences https://ritik7739.github.io/ritiksingh/
+- 📄 Know about my experiences [https://ritik](https://www.ritiksingh.me/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
